@@ -5,12 +5,12 @@ built around an actual **MCP (Model Context Protocol) server** exposing a
 small set of safe, schema-scoped tools, rather than an LLM that generates
 and executes free-form SQL.
 
-**100% synthetic data.** No real Walmart or retail sales data is used
+**100% synthetic data.** No real retail sales data is used
 anywhere in this repository.
 
 ## Why this project, and the core argument it makes
 
-Built to demonstrate two specific things named in target job descriptions:
+Built to demonstrate two specific things:
 "NLP-based assistants for analytics enablement," and hands-on experience
 with "protocol-driven systems (e.g., MCP or similar)."
 
